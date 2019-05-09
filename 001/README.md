@@ -17,3 +17,23 @@ Depending on your version of Photoshop, you’ll see a window with the following
 
 [ IMAGE HERE ]
 
+The most important settings to remember are:
+ 
+1. Width & Height: Use this to set the size of your canvas, in either Centimetres or Inches
+
+2. Resolution: If you’re planning to print your artwork, use 300 Pixels/Inch. If you’re not planning to print it, use 72 Pixels/Inch – this will keep your file sizes smaller and make your computer run faster
+
+3. Color Mode: Always start in RGB. If you want to print your artwork, you can switch this to CMYK later on.
+
+## The Software Interface
+
+[ IMAGE HERE ]
+
+The 3 most important part of the Photoshop software interface to remember are:
+
+1. The Toolbox – this contains all of the tools you’ll need, like the brush, eraser, selection tools, etc.
+
+2. The Options Bar – as you select tools in the toolbox, you’ll see that the bar at the top of the window changes, giving you different options for each tool
+
+3. Panels – you can mix and match the panels that you find most useful for your own workflow. For now, I recommend you start with the Brushes, Layers, and Color panels
+
