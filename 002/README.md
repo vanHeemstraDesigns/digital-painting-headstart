@@ -36,3 +36,9 @@ More resources on using brushes:
 - 10 Best Premium Brushes for Digital Painting [https://paintable.cc/best-premium-photoshop-brushes-for-digital-painting/]
 - Achieving a “Traditional” Look With Texture Brushes [https://paintable.cc/traditional-look-with-texture-brushes/]
 
+## Blending
+Blending colors is essential in creating a smooth, three-dimensional effect.
+
+There are many ways to create a blended effect in Photoshop: soft edge brush, smudge tool, and mixer brush being the most common tools. Of course, you should choose your technique based on the effect you are trying to achieve. We suggest you start by trying out various blending tools to see for yourself what fits your process and personal painting style.
+
+To learn more about blending, take a look at this guide [https://paintable.cc/how-to-blend-in-photoshop/] we’ve put together for you!
