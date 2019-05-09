@@ -37,3 +37,22 @@ The 3 most important part of the Photoshop software interface to remember are:
 
 3. Panels – you can mix and match the panels that you find most useful for your own workflow. For now, I recommend you start with the Brushes, Layers, and Color panels
 
+## Keyboard Shortcuts
+To speed up your workflow, you should start to get familiar with using keyboard shortcuts.
+
+Here are some of the most important Photoshop shortcuts to remember:
+
+* B – Select the Brush Tool
+* E – Select the Eraser Tool
+* Z – Select the Zoom Tool
+* M – Select the Marquee Tool
+* Ctrl/Cmd + T – Use the Free-Transform Tool
+
+When you have the Brush Tool (shortcut: B) selected, there are a number of shortcuts you can access by holding the following keys:
+
+* Spacebar– Temporarily select Move Tool
+* Spacebar + CMD/CTRL– Temporarily select Zoom Tool
+* CMD/CTRL  – Temporarily select Eyedropper Tool
+
+You can download a list of other useful Photoshop keyboard shortcuts here.
+
